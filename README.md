@@ -1,15 +1,51 @@
-# WHO-EDA-Data-Visualization
-Exploratory Data Analysis and Data Visualization on the WHO dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn.This project focuses on performing Exploratory Data Analysis (EDA) and Data Visualization on a WHO (World Health Organization) dataset.
+# 🌍 WHO Dataset — EDA & Data Visualization
 
-The goal is to understand the structure and quality of the data, identify missing values, explore relationships between variables, discover patterns, and generate meaningful insights through visualization.
+## 📌 Overview
 
-This project is part of my 30-Day Data Scientist Challenge, where I am building practical Data Science skills through hands-on projects.
+Exploratory Data Analysis (EDA) and Data Visualization performed on the **WHO dataset** using Python to understand data quality, patterns, relationships, and key insights.
 
-🛠️ Technologies Used
-🐍 Python
-🐼 Pandas
-🔢 NumPy
-📊 Matplotlib
-📈 Seaborn
-📓 Jupyter Notebook
-📗 Microsoft Excel
+This project is part of my **30-Day Data Scientist Challenge**.
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Excel
+
+## 🔍 What I Performed
+
+- Data loading and exploration
+- Missing value analysis
+- Duplicate detection
+- Descriptive statistics
+- Correlation analysis
+- Data visualization
+- Pattern and relationship analysis
+
+## 📊 Visualizations
+
+- Histograms
+- Scatter plots
+- Box plots
+- Bar charts
+- Correlation heatmaps
+
+## 🔄 EDA Workflow
+
+**Load → Explore → Clean → Analyze → Visualize → Find Insights**
+
+## 📁 Project Structure
+
+```text
+WHO-EDA-Data-Visualization/
+│
+├── data/
+│   └── who.xlsx
+├──notebook/
+|   └── eda.ipynb
+├── README.md
+└── requirements.txt
